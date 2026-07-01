@@ -2,12 +2,12 @@
 <h3 align="center">Cloud Computing & DevOps Enthusiast | AWS | Docker | Linux | CI/CD | Terraform</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RishabhBanga&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=RishabhBanga07&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 🎓 Pursuing **B.Tech in Computer Science & Engineering (3rd Year)** at **GNA University**
 
@@ -17,16 +17,17 @@
 
 💡 Interested in designing scalable, secure, and highly available cloud solutions.
 
-📚 Currently learning:
+📚 **Currently Learning**
+
 - Kubernetes
 - Advanced DevOps
-- Infrastructure as Code
+- Infrastructure as Code (Terraform)
 - Cloud Security
 - Microservices Architecture
 
 ---
 
-## 🚀 Professional Summary
+# 🚀 Professional Summary
 
 A motivated Computer Science undergraduate with a strong passion for **Cloud Computing** and **DevOps Engineering**. Experienced in deploying cloud infrastructure using AWS services and implementing automation using industry-standard tools.
 
@@ -50,36 +51,37 @@ Skilled in Linux administration, containerization, CI/CD pipeline implementation
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
-### ☁️ Cloud
+## ☁️ Cloud
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
----
-
-### 🚀 DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=aws" />
+</p>
 
 ---
 
-### 💻 Programming
+## 🚀 DevOps
 
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+<p>
+<img src="https://skillicons.dev/icons?i=docker,jenkins,terraform" />
+</p>
 
 ---
 
-### 🐧 Operating Systems & Tools
+## 💻 Programming
 
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,nodejs,html,css" />
+</p>
+
+---
+
+## 🐧 Operating Systems & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
+</p>
 
 ---
 
@@ -89,7 +91,7 @@ Skilled in Linux administration, containerization, CI/CD pipeline implementation
 
 - Hosted a static portfolio website on AWS S3
 - Configured bucket policies
-- Enabled static website hosting
+- Enabled Static Website Hosting
 - Implemented custom domain routing
 - Improved website availability
 
@@ -97,10 +99,10 @@ Skilled in Linux administration, containerization, CI/CD pipeline implementation
 
 ## 🚀 Node.js File Management System
 
-- Built file read/write automation using Node.js
-- Used asynchronous programming
-- Implemented callbacks and Promises
-- Managed filesystem operations efficiently
+- Built a file read/write automation project using Node.js
+- Implemented asynchronous programming
+- Used Callbacks and Promises
+- Managed file system operations efficiently
 
 **Tech Used**
 
@@ -110,7 +112,7 @@ Node.js • JavaScript • File System Module
 
 ## 🌐 Personal Portfolio Website
 
-- Designed and developed a fully responsive portfolio
+- Designed and developed a fully responsive portfolio website
 - Modern UI with smooth animations
 - Deployed using Vercel
 - Optimized for performance
@@ -134,7 +136,7 @@ HTML • CSS • JavaScript
 
 - Created Linux shell scripts
 - Automated system administration tasks
-- Managed files, folders, permissions and monitoring
+- Managed files, folders, permissions, and monitoring
 
 ---
 
@@ -145,16 +147,15 @@ HTML • CSS • JavaScript
 - ✅ DevOps Fundamentals
 - ✅ Terraform Basics
 
-
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RishabhBanga&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RishabhBanga07&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhBanga&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhBanga07&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -164,7 +165,7 @@ HTML • CSS • JavaScript
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RishabhBanga&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RishabhBanga07&theme=tokyonight"/>
 
 </p>
 
@@ -189,20 +190,25 @@ To build a successful career as a **Cloud & DevOps Engineer** by leveraging AWS,
 
 # 🌐 Connect With Me
 
-📧 Email: rishabhbanga9@gmail.com
+📧 **Email:** rishabhbanga9@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/rishabh-banga-5a4a55329/
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/rishabh-banga-5a4a55329/
 
-🌐 Portfolio: https://portfolio-eddhk5v1e-rishabh-bangas-projects-1dfdca4f.vercel.app/
+🌐 **Portfolio:**  
+https://portfolio-eddhk5v1e-rishabh-bangas-projects-1dfdca4f.vercel.app/
 
-📂 GitHub: https://github.com/RishabhBanga07
-
----
-
-## 💡 Quote
-
-> *"Automate everything. Build once. Deploy everywhere."*
+📂 **GitHub:**  
+https://github.com/RishabhBanga07
 
 ---
 
-⭐ From **Rishabh Banga**
+# 💡 Quote
+
+> **"Automate everything. Build once. Deploy everywhere."**
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! Let's build the future with Cloud & DevOps. 🚀
+</p>
