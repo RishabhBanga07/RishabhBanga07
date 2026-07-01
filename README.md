@@ -144,7 +144,7 @@ HTML • CSS • JavaScript
 - ✅ Linux Administration
 - ✅ DevOps Fundamentals
 - ✅ Terraform Basics
-- *(Add your official certification links here)*
+
 
 ---
 
