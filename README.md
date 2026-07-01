@@ -189,13 +189,13 @@ To build a successful career as a **Cloud & DevOps Engineer** by leveraging AWS,
 
 # 🌐 Connect With Me
 
-📧 Email: your-email@example.com
+📧 Email: rishabhbanga9@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/your-link
+💼 LinkedIn: https://www.linkedin.com/in/rishabh-banga-5a4a55329/
 
-🌐 Portfolio: https://your-portfolio.vercel.app
+🌐 Portfolio: https://portfolio-eddhk5v1e-rishabh-bangas-projects-1dfdca4f.vercel.app/
 
-📂 GitHub: https://github.com/RishabhBanga
+📂 GitHub: https://github.com/RishabhBanga07
 
 ---
 
